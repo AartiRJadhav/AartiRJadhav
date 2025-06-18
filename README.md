@@ -1,14 +1,69 @@
-<h1 align="center">Hi 👋, I'm Aarti Jadhav</h1>
-<h3 align="center">A statistics enthusiast and a machine learning developer</h3>
+# 👋 Hi there! I'm Aarti Jadhav
+🎯 Aspiring Data Scientist | Forecasting & Automation Enthusiast | Solving Real-World Problems with ML
 
-- 🌱 I’m currently exploring **Forecasting models**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- 📫 How to reach me **aartijadhav2003@gmail.com** or **aartiraj@buffalo.edu**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairatha&show_icons=true&locale=en&layout=compact" alt="zubairatha" /></p>
+
+## 🧠 About Me
+
+I'm a Data Science graduate student at the University at Buffalo with hands-on experience in applied ML for healthcare and optimization. I thrive on building scalable, interpretable machine learning systems that bridge data-driven research with real-world impact.
+
+My work spans:
+
+- 🧩 Data Anomaly Detection with Unsupervised ML
+- 📊 Interactive AI-Powered Data Analysis Tools (e.g., DataMind)
+- 🧠 Healthcare ML: Alzheimer's, Parkinson’s, Electrochemotherapy Optimization & Brain Tumor Detection
+- 📈 Time Series Forecasting & Sales Prediction
+- 🔍 Exploratory Data Analysis across diverse domains (e.g., F1, Crime, NYC Taxis)
+- 🛠 Optimization & Scheduling using Mixed Integer Programming
+
+---
+
+## 🔥 Featured Projects
+
+### [Datamind-Data-Analysis-Tool](https://github.com/AartiRJadhav/Datamind---Data-Analysis-Tool)
+DataMind is an interactive AI-powered data analysis tool built with Streamlit and LangChain, featuring multi-agent systems, dynamic visualization, and chain-of-thought prompting.
+Future enhancements include vector database integration and scalable agent swarm architecture.
+
+---
+
+### [Anomaly detection of SDSS photometric redshifts using Data Analysis Techniques](https://github.com/AartiRJadhav/AartiRJadhav-Anomaly-detection-of-SDSS-photometric-redshifts-using-Data-Analysis-Techniques)
+This project focuses on detecting anomalies in SDSS spectroscopic redshift data using the Elliptical Envelope method and evaluating its impact on machine learning-based photometric redshift predictions. 
+By filtering out unreliable data, it improves model accuracy and reduces computational cost.
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages**: Python, R, SQL, Java, MATLAB, JavaScript, C++, Ruby
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, Statsmodels, OpenCV
+- **Forecasting & Time Series**: Holt-Winters, ARIMA, SARIMA, Time Series Analysis (TSA)
+- **Optimization & Modeling**: PuLP, Gurobi, CPLEX, Mixed Integer Programming (MIP), Genetic Algorithms, Simulated Annealing
+- **Data & Big Data Tools**: MySQL, MongoDB, Azure SQL, Databricks, Hadoop, Spark, Hive, NoSQL, BigSQL
+- **Visualization & BI**: Power BI, Tableau, Plotly, Seaborn, Matplotlib, Google Data Studio, Excel
+- **Cloud & DevOps**: AWS, Microsoft Azure, Google Cloud, Docker, Kubernetes, Apache Airflow, Apache Kafka, Splunk
+- **Development Tools**: Jupyter, RStudio, Google Colab, VS Code, Git, GitHub, Streamlit
+
+---
+
+## 📫 Contact
+
+- 🔗 [GitHub](https://github.com/AartiRJadhav)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aarti-jadhav-a55612207/)  
+- 📧 Email: aartijadhav2003@gmail.com
+
+---
+
+> Let’s connect and collaborate on building scalable, intelligent solutions driven by data.
