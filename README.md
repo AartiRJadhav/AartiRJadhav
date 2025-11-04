@@ -61,7 +61,7 @@ By filtering out unreliable data, it improves model accuracy and reduces computa
 ## 📫 Contact
 
 - 🔗 [GitHub](https://github.com/AartiRJadhav)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aarti-jadhav-a55612207/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aarti-jadhav-8394b7395/)  
 - 📧 Email: aartijadhav2003@gmail.com
 
 ---
